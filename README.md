@@ -1,5 +1,5 @@
 # ShuffleNeMt
-Codes of ShuffleNeMt
+Codes of the paper "ShuffleNeMt: Modern lightweight convolutional neural network architecture"
 
 # Citation of the Paper
 
